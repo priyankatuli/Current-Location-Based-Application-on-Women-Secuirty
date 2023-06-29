@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color3"
+    tools:context=".EditProfileFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="40sp"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editName"
+            android:inputType="text"
+            android:hint="Name"
+            android:gravity="center"
+            android:textColorHint="#000"
+            android:textColor="#000"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editAge"
+            android:hint="Age"
+            android:gravity="center"
+            android:textColorHint="#000"
+            android:inputType="text"
+            android:layout_marginTop="20dp"
+            android:textColor="#000"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editDob"
+            android:hint="Date Of Birth: dd:MM:yyyy"
+            android:gravity="center"
+            android:textColorHint="#000"
+            android:inputType="date"
+            android:layout_marginTop="20dp"
+            android:textColor="#000"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editPhone"
+            android:hint="Phone No."
+            android:gravity="center"
+            android:textColorHint="#000"
+            android:inputType="phone"
+            android:layout_marginTop="20dp"
+            android:textColor="#000"/>
+
+        <Button
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Update"
+            android:id="@+id/editInfoBtn"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_color"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+            />
+    </LinearLayout>
+
+</FrameLayout>

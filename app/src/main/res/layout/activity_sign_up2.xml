@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".SignUpActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signUpName"
+        android:inputType="text"
+        android:hint="Name"
+        android:gravity="center"
+        android:textColorHint="#000"
+        android:textColor="#000"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signUpAge"
+        android:hint="Age"
+        android:gravity="center"
+        android:textColorHint="#000"
+        android:inputType="text"
+        android:layout_marginTop="20dp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signUpDob"
+        android:hint="Date Of Birth: dd:MM:yyyy"
+        android:gravity="center"
+        android:textColorHint="#000"
+        android:inputType="date"
+        android:layout_marginTop="20dp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signUpPhone"
+        android:hint="Phone No."
+        android:gravity="center"
+        android:textColorHint="#000"
+        android:inputType="phone"
+        android:layout_marginTop="20dp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpEmailId"
+        android:gravity="center"
+        android:inputType="textEmailAddress"
+        android:hint="Email"
+        android:textColorHint="#000"
+        android:textColor="#000"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpPasswordId"
+        android:gravity="center"
+        android:hint="Password"
+        android:textColorHint="#000"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp"
+        android:textColor="#000"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Anbtnname"
+        android:id="@+id/SignUpButtonId"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/carbo_color"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AnotherTxtName"
+        android:id="@+id/SignUptextViewId"
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textAllCaps="false"/>
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/SignUpprogressId"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+</LinearLayout>

@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Bachao</string>
+
+    <string name="Start">Current Location Based \nApplication on
+                       Women Security</string>
+
+    <string name="SignIn">Login"</string>
+    <string name="SignUp">Register"</string>
+    <string name="off">Offline</string>
+
+    <string name="btnname">Sign In</string>
+    <string name="txtname">Are you registered ? or Sign Up</string>
+
+    <string name="Anbtnname">Sign Up</string>
+    <string name="AnotherTxtName">If you are already registered then Sign In</string>
+
+
+    <string name="firsttxt">Welcome</string>
+
+
+    <string name="text1">Main Menu</string>
+    <string name="text2">False Alarm</string>
+    <string name="text3">Current\nLocation</string>
+    <string name="text4">Share Real time \nLocation</string>
+    <string name="text5">Show Nearby \nPlaces</string>
+    <string name="text6">Emergency \nCall</string>
+    <string name="text7">Emergency \nMessage</string>
+    <string name="text8">Nearby Police\nStations</string>
+    <string name="text9">Instruction For \nSelf Defense</string>
+    <string name="LogOut">Sign Out</string>
+    <string name="SelfDefenseTipsPageVerbiage">Self Defense Tips And Tricks</string>
+    <string name="bulletedList">
+        <ul>
+            <li>If you are attacked, go for the eyes, throat, and legs</li>
+
+            \n\n<li>If you are alone, don’t have bags over your shoulders that can pull you over. Have the bag hanging loose so you can easily drop it</li>
+
+            \n\n<li>If someone grabs you around the throat, pull at one finger, not the hand</li>
+
+            \n\n<li>If you can kick the attacker, aim for the knee</li>
+
+            \n\n<li>If you are alone then use something you may have in your bag such as nail file, scissors, pins or brooches, scent bottles that can squirt in the eyes, Spanish spiked hair combs, etc</li>
+
+            \n\n<li>If you scream, call a name to make your attacker think there is someone near you</li>
+            \n\n<li>If the situation is suitable and it is a threatened knife attack, wrap a coat around your arm as a shield</li>
+
+            \n\n<li>If you are attacked from behind, try and stamp on the attackers foot hard</li>
+
+            \n\n<li>If you have keys in your hand, use these to scratch the attacker</li>
+
+            \n\n<li>Keep your small bag mirror in your hand so you can check if you are being followed</li>
+
+            \n\n<li>If the road is clear, walk in the middle of the road</li>
+
+            \n\n<li>If you are carrying a handbag, remove money, keys, address books, phone, and keep these tucked in other clothing. Giving the bag may give you enough time to escape</li>
+
+            \n\n<li>If you are on the phone, keep talking about your location</li>
+
+            \n\n<li>If you are in a strangers car, photo the car and number plate even if it is a taxi</li>
+            \n\n<li>Also try to remember a description of the driver. Age, colour, weight, height, accent, clothes, accessories, tattoos, etc</li>
+        </ul>
+    </string>
+
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+
+    <string name="play">Play</string>
+    <string name="next">Playing when you go back it will stop</string>
+    <string name="title_activity_maps">Location</string>
+    <string name="developer_info">
+        \nThis app has been developed by, \n\n
+        <b>Priyanka Basak Tuli</b> \n
+        Email: tuli6945@gmail.com \n
+        ID: CE18047 \n
+        Dept. of CSE, MBSTU \n\n\n
+
+        In cooperation with \n
+        Mehedi Hasan Nobel \n
+        ID: CE18016 \n
+        Dept. of CSE, MBSTU \n\n\n
+
+        Supervised By, \n
+        Dr. Md. Sazzad Hossain \n
+        Professor, \n
+        Dept. of CSE, MBSTU \n \n
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

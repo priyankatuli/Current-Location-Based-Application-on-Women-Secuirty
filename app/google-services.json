@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760443524296",
+    "project_id": "saveourwoman-cb753",
+    "storage_bucket": "saveourwoman-cb753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760443524296:android:636305fba0e817b367c1fd",
+        "android_client_info": {
+          "package_name": "com.example.saveourwoman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760443524296-ncjsdghd0mmcela03281rcup6qjjvl39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwLjAoi_uRNhiFo3DoTg0B7mbb1XWHIwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760443524296-ncjsdghd0mmcela03281rcup6qjjvl39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
