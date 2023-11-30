@@ -4,7 +4,11 @@ It’s a security application for women.The goal of a study on women's security 
 #Main Features
 
 -Emergency calls to single mobile numbers.
+
 -Emergency messages to multiple mobile numbers.
+
 -Fetching the current location.
+
 -Share real-time location.
+
 -Show nearby three police stations.
