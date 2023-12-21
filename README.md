@@ -1,7 +1,7 @@
 # Current-Location-Based-Application-on-Women-Secuirty
 It’s a security application for women.The goal of a study on women's security might be to determine how well an application supports and protects women in potentially harmful circumstances.
 
-#Main Features
+# Main Features
 
 -Emergency calls to single mobile numbers.
 
