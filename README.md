@@ -3,12 +3,12 @@ It’s a security application for women.The goal of a study on women's security 
 
 # Main Features
 
--Emergency calls to single mobile numbers.
+- Authentication (Sign-In and Sign-Up Procedure) for Application Security.
+- Making emergency calls to a single stored mobile number.
+- Sending emergency messages to simultaneously stored mobile numbers.
+- Fetching the current location and sending current location to stored contacts through text.
+- Show nearby three police stations
 
--Emergency messages to multiple mobile numbers.
+# ScreenShots
 
--Fetching the current location.
 
--Share real-time location.
-
--Show nearby three police stations.
